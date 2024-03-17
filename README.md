@@ -1,1 +1,1 @@
-# HotelReviewClassifier
+# RestaurantReviewsClassifier
